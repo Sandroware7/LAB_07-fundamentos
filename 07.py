@@ -15,3 +15,7 @@ while conteo < Nnumeros:
         sumaimpar += numero
 
 print(f"La suma de pares es: {sumapar}, y la suma de impares es: {sumaimpar}")
+vsahkgcsjjckwug
+jcgjgcejkc
+jcbkewcbewkuc
+
